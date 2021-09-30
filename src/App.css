@@ -1,0 +1,11 @@
+.padding {
+  padding: 0px !important;
+}
+.margin {
+  margin: 0px !important;
+  background-image: url(./img/Group\ 10242.png);
+  padding-left: 3vw !important;
+  padding-top: 2vh !important;
+  /* background-size: cover; */
+  /* background-position-x: right; */
+}

@@ -27,7 +27,7 @@ return [
     */
 
     'env' => env('APP_ENV', 'production'),
-
+    'DOWNLOAD_PASS_KEY'=> env('DOWNLOAD_PASS_KEY','123456'),
     /*
     |--------------------------------------------------------------------------
     | Application Debug Mode
